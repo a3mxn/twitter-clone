@@ -60,6 +60,7 @@ A full-stack web application that replicates the core features of Twitter. This 
     
 ## **Setting up ENV file**
   Create a .env file in the root directory and use .envsample file for refrence
+  Default server port as 8000
 
   ## **Contact**
     GitHub: github.com/a3mxn
